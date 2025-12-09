@@ -1,9 +1,5 @@
 # NeuroPilot-MI-based-BCI-System
-根据您提供的代码文件，我为您生成了一个结构清晰、内容完整的 `README.md` 文档。
-
 -----
-
-# NeuroPilot - 基于运动想象的脑机接口康复系统
 
 **NeuroPilot** 是一个基于 Python 和 PyQt5 开发的现代化脑机接口（BCI）上肢康复训练平台。该系统专注于运动想象（Motor Imagery, MI）范式，集成了信号采集、范式呈现、实时/离线数据分析、机器学习模型训练以及外部康复设备控制功能。
 
